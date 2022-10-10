@@ -6,7 +6,7 @@ import Head from "next/head";
 
 export default function Login() {
     return (
-        <div className="contianer">
+        <div className="container">
             <div className="row justify-content-center">
                 <div className="col-xxl-4 col-lg-5 mt-4 pt-5">
                     <div className="card mt-4">
